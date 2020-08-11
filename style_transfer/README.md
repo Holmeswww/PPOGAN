@@ -9,3 +9,4 @@ Usage
 python main.py
 
 ```
+Edit config.py to change the parameters
